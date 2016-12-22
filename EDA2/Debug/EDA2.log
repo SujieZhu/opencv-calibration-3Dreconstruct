@@ -1,0 +1,26 @@
+﻿main.obj : error LNK2019: 无法解析的外部符号 _cvCreateImage，该符号在函数 "void __cdecl StereoCalib(char const *,int,int,float,int,int,int)" (?StereoCalib@@YAXPBDHHMHHH@Z) 中被引用
+main.obj : error LNK2019: 无法解析的外部符号 _cvReleaseImage，该符号在函数 "void __cdecl StereoCalib(char const *,int,int,float,int,int,int)" (?StereoCalib@@YAXPBDHHMHHH@Z) 中被引用
+main.obj : error LNK2019: 无法解析的外部符号 _cvCreateMat，该符号在函数 "void __cdecl StereoCalib(char const *,int,int,float,int,int,int)" (?StereoCalib@@YAXPBDHHMHHH@Z) 中被引用
+main.obj : error LNK2019: 无法解析的外部符号 _cvReleaseMat，该符号在函数 "void __cdecl StereoCalib(char const *,int,int,float,int,int,int)" (?StereoCalib@@YAXPBDHHMHHH@Z) 中被引用
+main.obj : error LNK2019: 无法解析的外部符号 _cvGetRows，该符号在函数 "void __cdecl StereoCalib(char const *,int,int,float,int,int,int)" (?StereoCalib@@YAXPBDHHMHHH@Z) 中被引用
+main.obj : error LNK2019: 无法解析的外部符号 _cvGetCols，该符号在函数 "void __cdecl StereoCalib(char const *,int,int,float,int,int,int)" (?StereoCalib@@YAXPBDHHMHHH@Z) 中被引用
+main.obj : error LNK2019: 无法解析的外部符号 _cvGetSize，该符号在函数 "void __cdecl StereoCalib(char const *,int,int,float,int,int,int)" (?StereoCalib@@YAXPBDHHMHHH@Z) 中被引用
+main.obj : error LNK2019: 无法解析的外部符号 _cvSetZero，该符号在函数 "void __cdecl StereoCalib(char const *,int,int,float,int,int,int)" (?StereoCalib@@YAXPBDHHMHHH@Z) 中被引用
+main.obj : error LNK2019: 无法解析的外部符号 _cvSetIdentity，该符号在函数 "void __cdecl StereoCalib(char const *,int,int,float,int,int,int)" (?StereoCalib@@YAXPBDHHMHHH@Z) 中被引用
+main.obj : error LNK2019: 无法解析的外部符号 _cvSave，该符号在函数 "void __cdecl StereoCalib(char const *,int,int,float,int,int,int)" (?StereoCalib@@YAXPBDHHMHHH@Z) 中被引用
+main.obj : error LNK2019: 无法解析的外部符号 _cvCvtColor，该符号在函数 "void __cdecl StereoCalib(char const *,int,int,float,int,int,int)" (?StereoCalib@@YAXPBDHHMHHH@Z) 中被引用
+main.obj : error LNK2019: 无法解析的外部符号 _cvResize，该符号在函数 "void __cdecl StereoCalib(char const *,int,int,float,int,int,int)" (?StereoCalib@@YAXPBDHHMHHH@Z) 中被引用
+main.obj : error LNK2019: 无法解析的外部符号 _cvRemap，该符号在函数 "void __cdecl StereoCalib(char const *,int,int,float,int,int,int)" (?StereoCalib@@YAXPBDHHMHHH@Z) 中被引用
+main.obj : error LNK2019: 无法解析的外部符号 _cvInitUndistortRectifyMap，该符号在函数 "void __cdecl StereoCalib(char const *,int,int,float,int,int,int)" (?StereoCalib@@YAXPBDHHMHHH@Z) 中被引用
+main.obj : error LNK2019: 无法解析的外部符号 _cvUndistortPoints，该符号在函数 "void __cdecl StereoCalib(char const *,int,int,float,int,int,int)" (?StereoCalib@@YAXPBDHHMHHH@Z) 中被引用
+main.obj : error LNK2019: 无法解析的外部符号 _cvFindCornerSubPix，该符号在函数 "void __cdecl StereoCalib(char const *,int,int,float,int,int,int)" (?StereoCalib@@YAXPBDHHMHHH@Z) 中被引用
+main.obj : error LNK2019: 无法解析的外部符号 _cvLine，该符号在函数 "void __cdecl StereoCalib(char const *,int,int,float,int,int,int)" (?StereoCalib@@YAXPBDHHMHHH@Z) 中被引用
+main.obj : error LNK2019: 无法解析的外部符号 _cvComputeCorrespondEpilines，该符号在函数 "void __cdecl StereoCalib(char const *,int,int,float,int,int,int)" (?StereoCalib@@YAXPBDHHMHHH@Z) 中被引用
+main.obj : error LNK2019: 无法解析的外部符号 _cvFindChessboardCorners，该符号在函数 "void __cdecl StereoCalib(char const *,int,int,float,int,int,int)" (?StereoCalib@@YAXPBDHHMHHH@Z) 中被引用
+main.obj : error LNK2019: 无法解析的外部符号 _cvDrawChessboardCorners，该符号在函数 "void __cdecl StereoCalib(char const *,int,int,float,int,int,int)" (?StereoCalib@@YAXPBDHHMHHH@Z) 中被引用
+main.obj : error LNK2019: 无法解析的外部符号 _cvStereoCalibrate，该符号在函数 "void __cdecl StereoCalib(char const *,int,int,float,int,int,int)" (?StereoCalib@@YAXPBDHHMHHH@Z) 中被引用
+main.obj : error LNK2019: 无法解析的外部符号 _cvStereoRectify，该符号在函数 "void __cdecl StereoCalib(char const *,int,int,float,int,int,int)" (?StereoCalib@@YAXPBDHHMHHH@Z) 中被引用
+main.obj : error LNK2019: 无法解析的外部符号 _cvLoadImage，该符号在函数 "void __cdecl StereoCalib(char const *,int,int,float,int,int,int)" (?StereoCalib@@YAXPBDHHMHHH@Z) 中被引用
+main.obj : error LNK2019: 无法解析的外部符号 _cvSaveImage，该符号在函数 "void __cdecl StereoCalib(char const *,int,int,float,int,int,int)" (?StereoCalib@@YAXPBDHHMHHH@Z) 中被引用
+F:\opencv\build\x64\vc14\lib\opencv_world310d.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“X86”冲突
+c:\users\弼\documents\visual studio 2015\Projects\EDA2\Debug\EDA2.exe : fatal error LNK1120: 24 个无法解析的外部命令

@@ -1,0 +1,9 @@
+﻿  main.cpp
+f:\opencv\build\include\opencv2\core\mat.hpp(1965): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\opencv\build\include\opencv2\core\persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\弼\documents\visual studio 2015\projects\eda2\eda2\calib.h(117): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\弼\documents\visual studio 2015\projects\eda2\eda2\calib.h(135): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\弼\documents\visual studio 2015\projects\eda2\eda2\calib.h(149): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  EDA2.vcxproj -> C:\Users\弼\Documents\Visual Studio 2015\Projects\EDA2\x64\Debug\EDA2.exe
+  EDA2.vcxproj -> C:\Users\弼\Documents\Visual Studio 2015\Projects\EDA2\x64\Debug\EDA2.pdb (Full PDB)
